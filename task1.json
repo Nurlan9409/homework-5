@@ -1,0 +1,17 @@
+{
+  "courses": [
+    {
+      "name": "python",
+      "price": 450
+    },   {
+      "name": "jawa",
+      "price": 600
+    },   {
+      "name": "PHP",
+      "price": 500
+    },   {
+      "name": "C#",
+      "price": 600
+    }
+  ]
+}
